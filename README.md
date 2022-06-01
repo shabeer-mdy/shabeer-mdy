@@ -4,28 +4,28 @@
   <br />
   <br />
   <p align="left">
-  <span>
+  <a href="#">
     <img src="https://raw.githubusercontent.com/shabeer-mdy/ColoredBadges/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
-  </span>  
-  <span>
+  </a>  
+  <a href="#">
     <img src="https://raw.githubusercontent.com/shabeer-mdy/ColoredBadges/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </span> 
+  </a> 
   </p>
   <p align="left">
-  <span>
+  <a href="#">
     <img src="https://raw.githubusercontent.com/shabeer-mdy/ColoredBadges/master/svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
-  </span> 
-  <span>
+  </a> 
+  <a href="#">
     <img src="https://raw.githubusercontent.com/shabeer-mdy/ColoredBadges/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
-  </span>  
-  <span>
+  </a>  
+  <a href="#">
     <img src="https://raw.githubusercontent.com/shabeer-mdy/ColoredBadges/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
-  </span> 
+  </a> 
   </p>
   <p align="left">
-  <span>
+  <a href="#">
     <img src="https://raw.githubusercontent.com/shabeer-mdy/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
-  </span> 
+  </a> 
   </p>
   
   Connect with me:
