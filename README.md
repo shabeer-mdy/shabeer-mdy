@@ -18,9 +18,6 @@
   <a href="#">
     <img src="https://raw.githubusercontent.com/shabeer-mdy/ColoredBadges/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
   </a>  
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/shabeer-mdy/ColoredBadges/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
-  </a> 
   </p>
   <p align="left">
   <a href="#">
